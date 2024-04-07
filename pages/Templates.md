@@ -3,7 +3,7 @@ template:: word
 	- Meanings
 		- meaning-1
 			- noun/verb/adjective/adverb/phrasal verb
-			- Pronunciations:
+			- Phonetics:
 				- US: `-`
 				- UK: `-`
 			- Examples:

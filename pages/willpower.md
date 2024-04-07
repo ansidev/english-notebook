@@ -1,7 +1,7 @@
 - Meanings
 	- the [[ability]] to [[control]] your own [thoughts](thought) and the way in which you [[behave]]
 		- noun
-		- Pronunciations:
+		- Phonetics:
 			- US: `/ˈwɪl.paʊ.ɚ/`
 			- UK: `/ˈwɪl.paʊər/`
 		- Examples:

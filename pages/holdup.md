@@ -1,7 +1,7 @@
 - Meanings
 	- a delay
 		- noun
-		- Pronunciations:
+		- Phonetics:
 			- US: `/ˈhoʊld.ʌp/`
 			- UK: `/ˈhəʊld.ʌp/`
 		- Examples:

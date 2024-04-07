@@ -1,7 +1,7 @@
 - Meanings
 	- the [[ability]] to [[continue]] trying to do something, [[although]] it is very difficult
 		- noun
-		- Pronunciations:
+		- Phonetics:
 			- US: `/dɪˌtɝː.mɪˈneɪ.ʃən/`
 			- UK: `/dɪˌtɜː.mɪˈneɪ.ʃən/`
 		- Examples:

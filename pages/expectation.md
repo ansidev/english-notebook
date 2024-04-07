@@ -1,7 +1,7 @@
 - Meanings
 	- the feeling the good things are going to happen in the future
 		- noun
-		- Pronunciations:
+		- Phonetics:
 			- US: `/ˌek.spekˈteɪ.ʃən/`
 			- UK: `/ˌek.spekˈteɪ.ʃən/`
 		- Examples:

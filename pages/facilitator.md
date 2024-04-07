@@ -1,7 +1,7 @@
 - Meanings
 	- someone who helps a [[person]] or [[organization]] do something more easily or [[find]] the [[answer]] to a [[problem]] by [discussing](discuss) [things](thing) and [suggesting](suggest) ways of doing [things](thing)
 		- noun
-		- Pronunciations:
+		- Phonetics:
 			- US: `/fəˈsɪl.ə.teɪ.t̬ɚ/`
 			- UK: `/fəˈsɪl.ɪ.teɪ.tər/`
 		- Examples:

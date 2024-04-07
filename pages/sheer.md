@@ -7,7 +7,7 @@
   card-last-score:: 1
 	- use to [[emphasize]] how very great [[important]], or [[powerful]], a [[quality]] or feeling is; nothing [[except]]
 		- adjective
-		- Pronunciations:
+		- Phonetics:
 			- US: `/ʃɪr/`
 			- UK: `/ʃɪər/`
 		- Examples:

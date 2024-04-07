@@ -1,7 +1,7 @@
 - Meanings
 	- of an [[extremely]] [[high]] [[standard]]
 		- adjective
-		- Pronunciations:
+		- Phonetics:
 			- US: `/ˈstel.ɚ/`
 			- UK: `/ˈstel.ər/`
 		- Examples:

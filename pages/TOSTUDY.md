@@ -20,3 +20,7 @@
 - [[hesitation]]
 - [[doubt]]
 - [[indecision]]
+- [[provision]]
+- [[suffer]]
+- [[suspect]]
+- [[suspicious]]
