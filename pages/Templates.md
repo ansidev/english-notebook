@@ -1,0 +1,18 @@
+template:: word
+
+	- Meanings
+		- meaning-1
+			- noun/verb/adjective/adverb/phrasal verb
+			- Pronunciations:
+				- US: `-`
+				- UK: `-`
+			- Examples:
+				- example-1
+			- Synonyms:
+				- word-1
+			- Antonyms:
+				- word-2
+			- Related words:
+				- word-3
+			- Dates:
+				- [[Apr 5th, 2024]]

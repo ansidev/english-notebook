@@ -1,0 +1,21 @@
+- Meanings
+	- the [[ability]] to [[control]] your own [thoughts](thought) and the way in which you [[behave]]
+		- noun
+		- Pronunciations:
+			- US: `/ˈwɪl.paʊ.ɚ/`
+			- UK: `/ˈwɪl.paʊər/`
+		- Examples:
+			- It took [[a lot of]] **willpower** to [[stay]] [[calm]].
+				- [[stay clam]]
+			- I don't have **willpower** to [[diet]] .
+			- Staying on a diet takes [[a lot of]] [[willpower]].
+				- [[stay on a diet]]
+		- Synonyms:
+			- [[determination]]
+		- Antonyms:
+			-
+		- Related words:
+			- [[will]]
+			- [[power]]
+		- Dates:
+			- [[Apr 6th, 2024]]

@@ -1,0 +1,22 @@
+- Meanings
+	- the [[ability]] to [[continue]] trying to do something, [[although]] it is very difficult
+		- noun
+		- Pronunciations:
+			- US: `/dɪˌtɝː.mɪˈneɪ.ʃən/`
+			- UK: `/dɪˌtɜː.mɪˈneɪ.ʃən/`
+		- Examples:
+			- You can't [[help]] but [[admire]] her **determination** to [[succeed]] .
+		- Synonyms:
+			- [[persistence]]
+			- [[perseverance]]
+			- [[stick-to-it-iveness]]
+			- [[single-mindedness]]
+			- [[doggedness]]
+		- Antonyms:
+			- [[hesitation]]
+			- [[doubt]]
+			- [[indecision]]
+		- Related words:
+			-
+		- Dates:
+			- [[Apr 6th, 2024]]

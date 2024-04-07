@@ -1,0 +1,24 @@
+- Meanings
+	- the feeling the good things are going to happen in the future
+		- noun
+		- Pronunciations:
+			- US: `/ˌek.spekˈteɪ.ʃən/`
+			- UK: `/ˌek.spekˈteɪ.ʃən/`
+		- Examples:
+			- The [[holiday]] [[lived up to something]] all our **expectations**.
+				- The [[holiday]] were as good as we were [expecting](expect).
+			- I've [heard](hear) she's a [[stellar]] [[manager]] so I **have high expectations**.
+				- I [[believe]] she will do a good job.
+			- What are your **expectation for** this job?
+			- I think she had unrealistic **expectations of** motherhood.
+			- **beyond someone's expectations**
+				- We did so well - beyond all our expectations.
+		- Synonyms:
+			-
+		- Antonyms:
+			-
+		- Related words:
+			- [[expect]]
+			- [[expectancy]]
+		- Dates:
+			- [[Apr 6th, 2024]]

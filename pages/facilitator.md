@@ -1,0 +1,16 @@
+- Meanings
+	- someone who helps a [[person]] or [[organization]] do something more easily or [[find]] the [[answer]] to a [[problem]] by [discussing](discuss) [things](thing) and [suggesting](suggest) ways of doing [things](thing)
+		- noun
+		- Pronunciations:
+			- US: `/fəˈsɪl.ə.teɪ.t̬ɚ/`
+			- UK: `/fəˈsɪl.ɪ.teɪ.tər/`
+		- Examples:
+			- I see my [[role]] as that of a **facilitator**, [[enabling]] other [[people]] to work in the way that [[suit]] them best.
+		- Synonyms:
+			-
+		- Antonyms:
+			-
+		- Related words:
+			- [[assistant]]
+		- Dates:
+			- [[Apr 6th, 2024]]

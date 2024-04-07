@@ -1,0 +1,21 @@
+- Meanings
+	- of an [[extremely]] [[high]] [[standard]]
+		- adjective
+		- Pronunciations:
+			- US: `/ˈstel.ɚ/`
+			- UK: `/ˈstel.ər/`
+		- Examples:
+			- After two years of **stellar** [[performance]], he was [promoted](promote) to the city [[branch]] of the [[agriculture]] [[bank]].
+			- The [[company]] has a **stellar** [[reputation]] for its [[treatment]] of it workers.
+		- Synonyms:
+			- [[first-rate]]
+			- [[superb]]
+			- [[exceptional]]
+		- Antonyms:
+			- [[poor]]
+			- [[inferior]]
+			- [[lousy]]
+		- Related words:
+			-
+		- Dates:
+			- [[Apr 6th, 2024]]

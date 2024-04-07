@@ -1,0 +1,26 @@
+- Meanings
+	- the feeling that something [[exciting]] or [[pleasant]] is going to [[happen]]
+		- noun
+		- Examples:
+			- There was a general **air of expectancy**  in the [[crowd]] .
+			- The [[voyage]] opened on a note of [[excitement]] and **expectancy**.
+		- Synonyms:
+			-
+		- Antonyms:
+			-
+		- Related words:
+			- [[expectation]]
+		- Dates:
+			- [[Apr 6th, 2024]]
+	- the amount of work or effort that an employee believes they must do in order to be successful
+		- noun/verb/adjective/adverb/phrasal verb
+		- Examples:
+			-
+		- Synonyms:
+			-
+		- Antonyms:
+			-
+		- Related words:
+			- [[expectancy theory]]
+		- Dates:
+			- [[Apr 6th, 2024]]
