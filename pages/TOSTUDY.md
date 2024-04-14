@@ -1,3 +1,4 @@
+- [[substantial]]
 - [[voyage]]
 - [[casual]]
 - [[prevention]]
@@ -24,3 +25,13 @@
 - [[suffer]]
 - [[suspect]]
 - [[suspicious]]
+- [[perpetual]]
+- [[insane]]
+- [[page]]
+	- informal conversation
+	- meaning: brain/memory
+	- Example: My page was not updated.
+- [[impact]]
+- [[rear]]
+- [[accuse]]
+- [[consensus]]

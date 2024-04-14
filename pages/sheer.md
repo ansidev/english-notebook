@@ -13,11 +13,12 @@
 		- Examples:
 			- The [[suggestion]] is **sheer** [[nonsense]] .
 			- His [[success]] was due to **sheer** [[willpower]] / [[determination]].
-			- Their **sheer** [[doggedness]] and [[ambition]] [helped](help) them [[ignore]] [[criticism]] and [[carry on]] .
+			- Their **sheer** [[doggedness]] and [[ambition]] [helped](help) them [[ignore]] [[criticism]] and [[carry on]].
+			- I have [got](get) where I am [[through]] **sheer** [[hard]] [[work]].
 		- Synonyms:
 			- [[complete]]
 			- [[absolute]]
 		- Antonyms:
 			-
 		- Dates:
-			- [[Apr 5th, 2024]]
+			-

@@ -1,0 +1,20 @@
+- Meanings
+	- to give [orders](order), or [[tell]] someone what exactly they must do, with [[total]] [[authority]]
+		- verb
+		- Phonetics:
+			- US: `/ˈdɪk.teɪt/`
+			- UK: `/dɪkˈteɪt/`
+		- Examples:
+			- The [rules](rule) **dictate** that [[only]] running [shoes](shoe) must be [[worn]] on the [[track]].
+			- [[After]] **dictating** [[what]] is to be [[done]], [[she]] [[then]] [leaves](leaves) [[her]] [[husband]] to [[do]] [[all]] the [[work]]!
+		- Synonyms:
+			- [[order]]
+			- [[command]]
+			-
+		- Antonyms:
+			-
+		- Related words:
+			- [[dictation]]
+			- [[dictator]]
+		- Dates:
+			- [[13-04-2024]]

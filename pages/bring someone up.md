@@ -1,0 +1,16 @@
+- Meanings
+	- to [[care]] for a [[child]] [[until]] they are an [[adult]], [[often]] [giving](give) them [[particular]] [beliefs](belief)
+		- [[phrasal verb]]
+		- Phonetics:
+			- US: `/brɪŋ ʌp/`
+			- UK: `/brɪŋ ʌp/`
+		- Examples:
+			- She was **brought up** by her [[grandmother]].
+		- Synonyms:
+			- [[rear]]
+		- Antonyms:
+			-
+		- Related words:
+			-
+		- Dates:
+			- [[13-04-2024]]

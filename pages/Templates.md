@@ -15,4 +15,4 @@ template:: word
 			- Related words:
 				- word-3
 			- Dates:
-				- [[Apr 5th, 2024]]
+				- [[01-04-2024]]

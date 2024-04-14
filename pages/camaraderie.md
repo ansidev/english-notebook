@@ -1,0 +1,17 @@
+- Meanings
+	- a feeling of friendliness toward people that you work or share an experience with
+		- noun
+		- Phonetics:
+			- US: `/ˌkæm.əˈrɑː.dɚ.i/`
+			- UK: `/ˌkæm.əˈrɑː.dər.i/`
+		- Examples:
+			- When you have been [climbing](climb) [[alone]] for hours, there is a [[tremendous]] [[sense]] of **camaraderie** when you [[meet]] another [climbers](climber).
+		- Synonyms:
+			-
+		- Antonyms:
+			-
+		- Related words:
+			- [[friendship]]
+			- [[fellowship]]
+		- Dates:
+			- [[13-04-2024]]

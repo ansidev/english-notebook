@@ -11,7 +11,7 @@
 		- Related words:
 			- [[expectation]]
 		- Dates:
-			- [[Apr 6th, 2024]]
+			- [[06-04-2024]]
 	- the amount of work or effort that an employee believes they must do in order to be successful
 		- noun/verb/adjective/adverb/phrasal verb
 		- Examples:
@@ -23,4 +23,4 @@
 		- Related words:
 			- [[expectancy theory]]
 		- Dates:
-			- [[Apr 6th, 2024]]
+			- [[06-04-2024]]

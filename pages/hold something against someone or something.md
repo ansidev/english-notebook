@@ -1,0 +1,18 @@
+- Meanings
+  id:: 9b884d2f-0d50-4462-9c53-d94883fea3ee
+	- to [[consider]] something as a [[reason]] to [[have]] [[bad]] [[opinion]] [[about]] someone or something
+		- [[phrasal verb]]
+		- Phonetics:
+			- US: `/hoʊld əˈɡenst/`
+			- UK: `/həʊld əˈɡenst/` or `/həʊld əˈɡenst/`
+		- Examples:
+			- He [made](make) a [[mistake]], but I don’t **hold it against** him – we all [[make]] [mistakes](mistake).
+		- Synonyms:
+			- [[bear a grudge]]
+			- [[harbor resentment]]
+		- Antonyms:
+			-
+		- Related words:
+			-
+		- Dates:
+			- [[13-04-2024]]

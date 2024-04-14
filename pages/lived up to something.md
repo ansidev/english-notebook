@@ -1,6 +1,6 @@
 - Meanings
 	- to be good as something
-		- phrasal verb
+		- [[phrasal verb]]
 		- Examples:
 			- Did the vacation **live up to** your expectations?
 		- Synonyms:
@@ -10,4 +10,4 @@
 		- Related words:
 			-
 		- Dates:
-			- [[Apr 6th, 2024]]
+			- [[06-04-2024]]

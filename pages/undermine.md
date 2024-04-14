@@ -1,0 +1,17 @@
+- Meanings
+	- to [[make]] someone less [[confident]], less [[powerful]], or less likely to [[succeed]], or to make something weaker, often [[gradually]]
+		- verb
+		- Phonetics:
+			- US: `/ˌʌn.dɚˈmaɪn/`
+			- UK: `/ˌʌn.dəˈmaɪn/`
+		- Examples:
+			- [[Criticism]] just **undermines** their [[confidence]].
+			- [[Suddenly]], she just [turned on](turn on someone) and [accused](accuse) me of **undermining** her.
+		- Synonyms:
+			-
+		- Antonyms:
+			- word-2
+		- Related words:
+			- word-3
+		- Dates:
+			- [[13-04-2024]]

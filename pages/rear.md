@@ -1,0 +1,16 @@
+- Meanings
+	- to [[care]] for [[young]] [animals](animal) or [[children]] [[until]] they are able to [[care]] for [[themselves]]
+		- verb
+		- Phonetics:
+			- US: `/rɪr/`
+			- UK: `/rɪər/`
+		- Examples:
+			- He [describes](describe) [[how]] [[these]] [birds](bird) **rear** [[their]] [[young]].
+		- Synonyms:
+			- [[bring someone up]]
+		- Antonyms:
+			-
+		- Related words:
+			-
+		- Dates:
+			- [[13-04-2024]]

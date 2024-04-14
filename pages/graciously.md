@@ -11,4 +11,4 @@
 		- Related words:
 			- [[gracious]]
 		- Dates:
-			- [[Apr 6th, 2024]]
+			- [[06-04-2024]]

@@ -1,0 +1,22 @@
+- Meanings
+	- [[unusual]] and [[strange]], [[sometimes]] in an [[unpleasant]] [[way]]
+		- adjective
+		- Phonetics:
+			- US: `/pɪˈkjuːl.jɚ/`
+			- UK: `/pɪˈkjuː.li.ər/`
+		- Examples:
+			- She has the most **peculiar** [ideas](idea).
+		- Synonyms:
+			- [[unusual]]
+			- [[strange]]
+			- [[weird]]
+			- [[bizarre]]
+			- [[odd]]
+		- Antonyms:
+			- [[normal]]
+			- [[ordinary]]
+			- [[usual]]
+		- Related words:
+			-
+		- Dates:
+			- [[13-04-2024]]

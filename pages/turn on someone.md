@@ -1,6 +1,6 @@
 - Meanings
-	- meaning-1
-		- verb
+	- to attack or criticize someone suddenly and unexpectedly
+		- [[phrasal verb]]
 		- Phonetics:
 			- US: `-`
 			- UK: `-`
@@ -11,7 +11,6 @@
 		- Antonyms:
 			- word-2
 		- Related words:
-			- [[suggestion]]
+			- word-3
 		- Dates:
-			-
--
+			- [[13-04-2024]]
