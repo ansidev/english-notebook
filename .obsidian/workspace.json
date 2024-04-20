@@ -13,14 +13,75 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024/Week 14.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a5db6f0c720abde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024/Week 16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21288adc3bc34bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/supplant.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbdd84fe30ebf197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024/Week 16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa00ecd9bf74eb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOSTUDY.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "019b8293319d4264",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -49,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024/Week 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024/Week 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +184,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2024/Week 14.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,39 +204,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8d5ca254803ee68",
+  "active": "019b8293319d4264",
   "lastOpenFiles": [
-    "journals/2024/Week 15.md",
+    "broken_links.md",
     "journals/2024/Week 16.md",
+    "journals/2024/Week 15.md",
     "journals/2024/Week 14.md",
+    "pages/-intentioned.md",
+    "pages/affection.md",
+    "pages/Between Scylla and Charybdis.md",
+    "pages/bring someone up.md",
+    "pages/camaraderie.md",
+    "pages/deliberate.md",
+    "pages/dictate.md",
+    "pages/determination.md",
+    "TOSTUDY.md",
+    "broken links output.md",
+    "templates/daily_notes.md",
+    "orphaned files output.md",
+    "pages/fine-grained.md",
+    "pages/no longer.md",
+    "pages/sabotage.md",
+    "pages/supplant.md",
+    "pages/supersede.md",
     "README.md",
+    "pages/seamless.md",
+    "Tag.md",
+    "pages/sudden.md",
+    "he.md",
+    "Untitled.canvas",
     "journals/2024",
     "weeks",
-    "pages/willpower.md",
-    "TOSTUDY.md",
-    "templates/word.md",
-    "templates/daily_notes.md",
-    "templates/standup_notes.md",
-    "pages/vouch.md",
-    "pages/undermine.md",
-    "pages/turn on someone.md",
-    "pages/suggest.md",
-    "pages/stellar.md",
-    "pages/sheer.md",
-    "pages/rear.md",
-    "pages/peculiar.md",
-    "pages/lived up to something.md",
-    "pages/holdup.md",
-    "pages/hold something against someone or something.md",
     "LICENSE",
-    "pages/bring someone up.md",
-    "pages/Between Scylla and Charybdis.md",
-    "please.md",
-    "journals/13-04-2024.md",
-    "20-04-2024.md",
     "journals",
     "untitled folder",
-    "templates",
-    "Untitled.canvas"
+    "templates"
   ]
 }
