@@ -1,9 +1,10 @@
 ## Introduction
 This is [ansidev](https://github.com/ansidev)'s personal English notebook.
 ## Index
-- [[2024/Week 14]]
-- [[2024/Week 15]]
-- [[2024/Week 16]]
+- 2024:
+	- [[journals/2024/Week 14|Week 14]]
+	- [[journals/2024/Week 15|Week 15]]
+	- [[journals/2024/Week 16|Week 16]]
 ## Author
 Le Minh Tri [@ansidev](https://ansidev.xyz/about).
 ## Credits

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOSTUDY.md",
+                "file": "journals/2024/Week 14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOSTUDY.md",
+                "file": "journals/2024/Week 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOSTUDY.md",
+                "file": "journals/2024/Week 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOSTUDY.md"
+                "file": "journals/2024/Week 14.md"
               }
             }
           }
@@ -149,12 +149,17 @@
   },
   "active": "f8d5ca254803ee68",
   "lastOpenFiles": [
+    "journals/2024/Week 15.md",
+    "journals/2024/Week 16.md",
+    "journals/2024/Week 14.md",
     "README.md",
+    "journals/2024",
+    "weeks",
+    "pages/willpower.md",
     "TOSTUDY.md",
     "templates/word.md",
     "templates/daily_notes.md",
     "templates/standup_notes.md",
-    "pages/willpower.md",
     "pages/vouch.md",
     "pages/undermine.md",
     "pages/turn on someone.md",
@@ -171,13 +176,9 @@
     "pages/Between Scylla and Charybdis.md",
     "please.md",
     "journals/13-04-2024.md",
-    "pages/2024___Week 14.md",
     "20-04-2024.md",
     "journals",
     "untitled folder",
-    "pages/Templates.md",
-    "{{date}}.md",
-    "pages/Untitled.md",
     "templates",
     "Untitled.canvas"
   ]
