@@ -1,0 +1,16 @@
+- having [[intention|intentions]] of the [[type]] mentioned
+	- suffix
+	- Phonetics:
+		- US: `/ -ɪn.ten.ʃənd/`
+		- UK: `/ -ɪn.ten.ʃənd/`
+	- Examples:
+		- [[such|Such]] [[proposal|proposals]] are ill-intentioned and [[probably]] not [[effective]].
+		- [[despite|Despite]] the best-intentioned [[effort|efforts]], [[accident|accidents]] are part of the [[construction]] [[industry]].
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[20-04-2024]]

@@ -1,0 +1,1 @@
+- past tense of [[forget]]

@@ -1,0 +1,20 @@
+- a feeling of liking for a person or place
+	- noun/verb/adjective/adverb/phrasal verb
+	- Phonetics:
+		- US: `/əˈfek.ʃən/`
+		- UK: `/əˈfek.ʃən/`
+	- Examples:
+		- [[affection for]]:
+			- She felt no **affection** for the [[child]].
+			- He had a deep affection for his aunt.
+	- Synonyms:
+		- [[love]]
+		- [[fondness]]
+		- [[tenderness]]
+	- Antonyms:
+		- [[hate]]
+		- [[antipathy]]
+	- Related words:
+		- 
+	- Dates:
+		- [[20-04-2024]]

@@ -1,0 +1,16 @@
+- [[concerned with]] or using small [[detail|details]]
+	- adjective
+	- Phonetics:
+		- US: `/ˈfaɪn.ɡreɪnd/`
+		- UK: `/ˈfaɪn.ɡreɪnd/`
+	- Examples:
+		- We need a more **fine-grained** [[analysis]].
+		- She has [[develop|developed]] a [[theory]] that is more **fine-grained** and [[nuanced]].
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[20-04-2024]]

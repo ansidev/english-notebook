@@ -1,0 +1,16 @@
+- in the past but not for now
+	- [[idiom]]
+	- Phonetics:
+		- US: `-`
+		- UK: `-`
+	- Examples:
+		- This building is **no longer** used.
+		- She doesn't work here **any longer**.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[20-04-2024]]

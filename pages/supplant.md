@@ -1,0 +1,16 @@
+- to [[replace]]
+	- verb
+	- Phonetics:
+		- US: `/səˈplænt/`
+		- UK: `/səˈplɑːnt/`
+	- Examples:
+		- Printed books will soon be **supplanted** by e-books.
+		- Small children can often feel **supplanted** in their parent's [[affection|affections]] (= that their parents [[no longer]] like them as much) when a new brother or sister is born.
+	- Synonyms:
+		- [[replace]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[20-04-2024]]

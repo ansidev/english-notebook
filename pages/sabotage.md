@@ -1,0 +1,16 @@
+- to [[intentionally]] [[prevent]] the [[success]] of a plan or [[action]]
+	- verb
+	- Phonetics:
+		- US: `/ˈsæb.ə.tɑːʒ/`
+		- UK: `/ˈsæb.ə.tɑːʒ/`
+	- Examples:
+		- This was a [[deliberate]] [[attempt]] to **sabotage** the [[ceasefire]].
+		- She [[blame|blamed]] him for trying to **sabotage** her [[career]] [[even though]] she was [[no longer]] [[sign|signed]] to the company.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[20-04-2024]]

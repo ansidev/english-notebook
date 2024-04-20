@@ -1,0 +1,23 @@
+- to be [[unable]] to [[remember]] a [[fact]], [[something]] that [[happen|happened]], or [[how]] to do [[something]]
+	- verb
+		- Past tense: [[forgot]]
+		- Past participle: [[forgotten]]
+	- Phonetics:
+		- US: `/fɚˈɡet/`
+		- UK: `/fəˈɡet/`
+	- Examples:
+		- I'm sorry, I've **forgotten** your name.
+		- Let me [[write down]] that date [[before]] I **forget** it.
+		- [[forget about]]:
+			- I [[completely]] **forgot about** Jenny's [[party]].
+		- [[forget a face]]
+			- I never forget a face = I'm good at remembering people.
+		- I was forgetting you would be away in August.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- [[remember]]
+	- Related words:
+		- word-3
+	- Dates:
+		- [[20-04-2024]]

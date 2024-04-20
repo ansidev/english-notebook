@@ -5,7 +5,7 @@
 		- UK: `/dɪkˈteɪt/`
 	- Examples:
 		- The [rules](rule) **dictate** that [[only]] running [shoes](shoe) must be [[worn]] on the [[track]].
-		- [[After]] **dictating** [[what]] is to be [[done]], [[she]] [[then]] [leaves](leaves) [[her]] [[husband]] to [[do]] [[all]] the [[work]]!
+		- [[After]] **dictating** [[what]] is to be [[done]], [[she]] [[then]] [leaves](leaves) her [[husband]] to [[do]] [[all]] the [[work]]!
 	- Synonyms:
 		- [[order]]
 		- [[command]]

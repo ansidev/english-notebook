@@ -1,0 +1,16 @@
+- to [[replace]] something, [[especially]] something older or more [[old-fashioned]]
+	- verb
+	- Phonetics:
+		- US: `/ˌsuː.pɚˈsiːd/`
+		- UK: `/ˌsuː.pəˈsiːd/`
+	- Examples:
+		- Most of the old road has been **superseded** by the great [[interstate]] highways.
+	- Synonyms:
+		- [[replace]]
+		- [[supplant]]
+	- Antonyms:
+		- 
+	- Related words:
+		- [[change over]]
+	- Dates:
+		- [[20-04-2024]]

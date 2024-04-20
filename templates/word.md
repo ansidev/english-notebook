@@ -1,4 +1,3 @@
-Meanings
 - meaning-1
 	- noun/verb/adjective/adverb/phrasal verb
 	- Phonetics:

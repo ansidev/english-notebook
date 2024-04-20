@@ -1,0 +1,15 @@
+- [[happen|happening]] [[without]] any [[sudden]] [[change|changes]], [[interruption]], or [[difficulty]]:
+	- adjective
+	- Phonetics:
+		- US: `/ˈsiːm.ləs/`
+		- UK: `/ˈsiːm.ləs/`
+	- Examples:
+		- The [[intention]] is to [[achieve]] a **seamless** [[transition]] with a [[continuity]] of [[management]].
+	- Synonyms:
+		- word-1
+	- Antonyms:
+		- word-2
+	- Related words:
+		- word-3
+	- Dates:
+		- [[20-04-2024]]

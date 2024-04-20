@@ -5,7 +5,7 @@
 		- UK: `/ˈwɪl.paʊər/`
 	- Examples:
 		- It took [[a lot of]] **willpower** to [[stay]] [[calm]].
-			- [[stay clam]]
+			- [[stay calm]]
 		- I don't have **willpower** to [[diet]] .
 		- Staying on a diet takes [[a lot of]] [[willpower]].
 			- [[stay on a diet]]
