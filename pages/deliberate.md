@@ -1,17 +1,16 @@
-- Meanings
-	- (often of something bad) [[intentional]] or [planned](plan)
-		- adjective
-		- Phonetics:
-			- US: `/dɪˈlɪb.ɚ.ət/`
-			- UK: `/dɪˈlɪb.ər.ət/`
-		- Examples:
-			- Some [[women]] [[make]] a **deliberate** [[choice]] to [[rear]] a [[child]] [[alone]].
-		- Synonyms:
-			- [[purposeful]]
-			- [[intentional]]
-		- Antonyms:
-			-
-		- Related words:
-			- [[deliberation]]
-		- Dates:
-			- [[13-04-2024]]
+- (often of something bad) [[intentional]] or [planned](plan)
+	- adjective
+	- Phonetics:
+		- US: `/dɪˈlɪb.ɚ.ət/`
+		- UK: `/dɪˈlɪb.ər.ət/`
+	- Examples:
+		- Some [[women]] [[make]] a **deliberate** [[choice]] to [[rear]] a [[child]] [[alone]].
+	- Synonyms:
+		- [[purposeful]]
+		- [[intentional]]
+	- Antonyms:
+		-
+	- Related words:
+		- [[deliberation]]
+	- Dates:
+		- [[13-04-2024]]

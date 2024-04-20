@@ -1,5 +1,6 @@
+Meanings
 - meaning-1
-	- verb
+	- noun/verb/adjective/adverb/phrasal verb
 	- Phonetics:
 		- US: `-`
 		- UK: `-`
@@ -10,6 +11,6 @@
 	- Antonyms:
 		- word-2
 	- Related words:
-		- [[suggestion]]
+		- word-3
 	- Dates:
-		-
+		- [[{{date}}]]

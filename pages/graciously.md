@@ -1,14 +1,13 @@
-- Meanings
-	- [[politely]] and [[pleasantly]]
-		- adverb
-		- Examples:
-			- She **graciously** accepted the flowers that were presented to her.
-			- She accepted [[defeat]] **graciously**.
-		- Synonyms:
-			-
-		- Antonyms:
-			-
-		- Related words:
-			- [[gracious]]
-		- Dates:
-			- [[06-04-2024]]
+- [[politely]] and [[pleasantly]]
+	- adverb
+	- Examples:
+		- She **graciously** accepted the flowers that were presented to her.
+		- She accepted [[defeat]] **graciously**.
+	- Synonyms:
+		-
+	- Antonyms:
+		-
+	- Related words:
+		- [[gracious]]
+	- Dates:
+		- [[06-04-2024]]

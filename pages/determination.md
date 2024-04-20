@@ -1,22 +1,21 @@
-- Meanings
-	- the [[ability]] to [[continue]] trying to do something, [[although]] it is very difficult
-		- noun
-		- Phonetics:
-			- US: `/dɪˌtɝː.mɪˈneɪ.ʃən/`
-			- UK: `/dɪˌtɜː.mɪˈneɪ.ʃən/`
-		- Examples:
-			- You can't [[help]] but [[admire]] her **determination** to [[succeed]] .
-		- Synonyms:
-			- [[persistence]]
-			- [[perseverance]]
-			- [[stick-to-it-iveness]]
-			- [[single-mindedness]]
-			- [[doggedness]]
-		- Antonyms:
-			- [[hesitation]]
-			- [[doubt]]
-			- [[indecision]]
-		- Related words:
-			-
-		- Dates:
-			- [[06-04-2024]]
+- the [[ability]] to [[continue]] trying to do something, [[although]] it is very difficult
+	- noun
+	- Phonetics:
+		- US: `/dɪˌtɝː.mɪˈneɪ.ʃən/`
+		- UK: `/dɪˌtɜː.mɪˈneɪ.ʃən/`
+	- Examples:
+		- You can't [[help]] but [[admire]] her **determination** to [[succeed]] .
+	- Synonyms:
+		- [[persistence]]
+		- [[perseverance]]
+		- [[stick-to-it-iveness]]
+		- [[single-mindedness]]
+		- [[doggedness]]
+	- Antonyms:
+		- [[hesitation]]
+		- [[doubt]]
+		- [[indecision]]
+	- Related words:
+		-
+	- Dates:
+		- [[06-04-2024]]

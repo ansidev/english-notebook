@@ -1,13 +1,12 @@
-- Meanings
-	- to be good as something
-		- [[phrasal verb]]
-		- Examples:
-			- Did the vacation **live up to** your expectations?
-		- Synonyms:
-			-
-		- Antonyms:
-			-
-		- Related words:
-			-
-		- Dates:
-			- [[06-04-2024]]
+- to be good as something
+	- [[phrasal verb]]
+	- Examples:
+		- Did the vacation **live up to** your expectations?
+	- Synonyms:
+		-
+	- Antonyms:
+		-
+	- Related words:
+		-
+	- Dates:
+		- [[06-04-2024]]

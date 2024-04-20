@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "a54bf7543b261748",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e3fcb91ad53c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d5ca254803ee68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOSTUDY.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b05de9c3921ce05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9be60730a6fd873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4720c388e6315aa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8417cb3607488cb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "088bae2de0bc2ff0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2004f5af2e7a7064",
+    "type": "split",
+    "children": [
+      {
+        "id": "f313c86c7b074298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bd41f24de3c915",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TOSTUDY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83f4767763afc4c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TOSTUDY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c449a3357478112a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6452602f8878974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOSTUDY.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8d5ca254803ee68",
+  "lastOpenFiles": [
+    "README.md",
+    "TOSTUDY.md",
+    "templates/word.md",
+    "templates/daily_notes.md",
+    "templates/standup_notes.md",
+    "pages/willpower.md",
+    "pages/vouch.md",
+    "pages/undermine.md",
+    "pages/turn on someone.md",
+    "pages/suggest.md",
+    "pages/stellar.md",
+    "pages/sheer.md",
+    "pages/rear.md",
+    "pages/peculiar.md",
+    "pages/lived up to something.md",
+    "pages/holdup.md",
+    "pages/hold something against someone or something.md",
+    "LICENSE",
+    "pages/bring someone up.md",
+    "pages/Between Scylla and Charybdis.md",
+    "please.md",
+    "journals/13-04-2024.md",
+    "pages/2024___Week 14.md",
+    "20-04-2024.md",
+    "journals",
+    "untitled folder",
+    "pages/Templates.md",
+    "{{date}}.md",
+    "pages/Untitled.md",
+    "templates",
+    "Untitled.canvas"
+  ]
+}

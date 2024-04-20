@@ -1,16 +1,15 @@
-- Meanings
-	- to attack or criticize someone suddenly and unexpectedly
-		- [[phrasal verb]]
-		- Phonetics:
-			- US: `-`
-			- UK: `-`
-		- Examples:
-			- example-1
-		- Synonyms:
-			- word-1
-		- Antonyms:
-			- word-2
-		- Related words:
-			- word-3
-		- Dates:
-			- [[13-04-2024]]
+- to attack or criticize someone suddenly and unexpectedly
+	- [[phrasal verb]]
+	- Phonetics:
+		- US: `-`
+		- UK: `-`
+	- Examples:
+		- example-1
+	- Synonyms:
+		- word-1
+	- Antonyms:
+		- word-2
+	- Related words:
+		- word-3
+	- Dates:
+		- [[13-04-2024]]

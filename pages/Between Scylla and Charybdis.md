@@ -1,17 +1,15 @@
--
-	- Meanings
-		- used to reference a situation in which an attempt to avoid one danger increases the risk from another danger.
-			- [[idiom]]
-			- Phonetics:
-				- US: `/bɪˈtwiːn ˌsɪlə ən kəˈrɪbdɪs/`
-				- UK: `/bɪˈtwiːn ˌsɪlə ən kəˈrɪbdɪs/`
-			- Examples:
-				- He would have [preferred](prefer) to be on good [terms](term) with both his [[wife]] and his [[mother]], but the [[effort]] of [pleasing](please) one without [offending](offend) the other was like [steering](steer) **between Scylla and Charybdis**.
-			- Synonyms:
-				-
-			- Antonyms:
-				-
-			- Related words:
-				-
-			- Dates:
-				- [[13-04-2024]]
+- used to reference a situation in which an attempt to avoid one danger increases the risk from another danger.
+	- [[idiom]]
+	- Phonetics:
+		- US: `/bɪˈtwiːn ˌsɪlə ən kəˈrɪbdɪs/`
+		- UK: `/bɪˈtwiːn ˌsɪlə ən kəˈrɪbdɪs/`
+	- Examples:
+		- He would have [[prefer|preferred]] to be on good [terms](term) with both his [[wife]] and his [[mother]], but the [[effort]] of [pleasing](please) one without [offending](offend) the other was like [steering](steer) **between Scylla and Charybdis**.
+	- Synonyms:
+		-
+	- Antonyms:
+		-
+	- Related words:
+		-
+	- Dates:
+		- [[13-04-2024]]

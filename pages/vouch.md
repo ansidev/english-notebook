@@ -1,18 +1,17 @@
-- Meanings
-	- to be [[able]] to say something is true from your [[knowledge]] or [[experience]]
-		- verb
-		- Phonetics:
-			- US: `/vaʊtʃ/`
-			- UK: `/vaʊtʃ/`
-		- Examples:
-			- As a [[medical]] [[examiner]], I can **vouch** that his [[death]] was [[accidental]].
-		- Synonyms:
-			- [[assure]]
-			- [[guarantee]]
-			- [[ensure]]
-		- Antonyms:
-			-
-		- Related words:
-			-
-		- Dates:
-			- [[13-04-2024]]
+- to be [[able]] to say something is true from your [[knowledge]] or [[experience]]
+	- verb
+	- Phonetics:
+		- US: `/vaʊtʃ/`
+		- UK: `/vaʊtʃ/`
+	- Examples:
+		- As a [[medical]] [[examiner]], I can **vouch** that his [[death]] was [[accidental]].
+	- Synonyms:
+		- [[assure]]
+		- [[guarantee]]
+		- [[ensure]]
+	- Antonyms:
+		-
+	- Related words:
+		-
+	- Dates:
+		- [[13-04-2024]]
