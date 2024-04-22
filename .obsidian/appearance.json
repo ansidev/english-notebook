@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Typora-Vue",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "Inter",
   "interfaceFontFamily": "Inter",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }
