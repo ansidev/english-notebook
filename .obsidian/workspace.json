@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99fa8db852ef1164",
+        "id": "eae15cf24df2c7d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9aedb533e7a7a890",
+            "id": "0ae36a4b9118f89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9aedb533e7a7a890",
+  "active": "0ae36a4b9118f89b",
   "lastOpenFiles": [
+    "journals/2024/Week 17.md",
     "README.md",
     "TOSTUDY.md",
     "journals/2024/Week 14.md",
@@ -174,7 +175,6 @@
     "pages/camaraderie.md",
     "pages/deliberate.md",
     "pages/dictate.md",
-    "pages/determination.md",
     "Untitled.canvas",
     "journals/2024",
     "weeks",
