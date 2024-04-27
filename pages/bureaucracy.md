@@ -1,0 +1,17 @@
+- a [[system]] for [[control|controlling]] or [[manage|managing]] a country, company, or organization that is [[operate|operated]] by a large number of [[official|officials]] who are [[employ|employed]] to follow [[rule|rules]] [[carefully]]
+	- noun
+	- Phonetics:
+		- US: `/bjʊˈrɑː.krə.si/`
+		- UK: `/bjʊəˈrɒk.rə.si/`
+	- Examples:
+		- I had to [[deal]] with the [[university]]'s **bureaucracy** when I was applying for [[financial]] [[aid]].
+			- [[deal with something]]
+		- These [[regulation|regulations]] have no [[benefit]] [[except]] to [[support]] a large [[government]] **bureaucracy**.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[27-04-2024]]

@@ -1,0 +1,18 @@
+- solving [[problem|problems]] in a [[sensible]] way that [[suit|suits]] the [[conditions]] that really exist now, rather than [[obey|obeying]] fixed [[theory|theories]], ideas, or rules:
+	- adjective
+	- Phonetics:
+		- US: `/præɡˈmæt̬.ɪk/`
+		- UK: `/præɡˈmæt.ɪk/`
+	- Examples:
+		- In [[business]], the **pragmatic** [[approach]] to [[problem|problems]] is often more [[successful]] than an [[idealistic]] one.
+	- Synonyms:
+		- [[hard-nosed]]
+		- [[realistic]]
+		- [[practical]]
+	- Antonyms:
+		- [[impractical]]
+		- [[idealistic]]
+	- Related words:
+		- word-3
+	- Dates:
+		- [[23-04-2024]]

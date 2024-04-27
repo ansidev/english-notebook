@@ -1,0 +1,16 @@
+- meaning-1
+	- noun/verb/adjective/adverb/phrasal verb
+	- Phonetics:
+		- US: `-`
+		- UK: `-`
+	- Examples:
+		- example-1
+	- Synonyms:
+		- word-1
+	- Antonyms:
+		- word-2
+	- Related words:
+		- [[successful]]
+	- Dates:
+		- [[06-04-2024]]
+		- [[20-04-2024]]

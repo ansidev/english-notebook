@@ -1,0 +1,15 @@
+- an [[official]] [[rule]] or the [[act]] of [[control|controlling]] something
+	- noun
+	- Phonetics:
+		- US: `/ˌreɡ.jəˈleɪ.ʃən/`
+		- UK: `/ˌreɡ.jəˈleɪ.ʃən/`
+	- Examples:
+		- The [[correct]] [[procedure]] is [[lay something down|laid down]] in the [[rule|rules]] and **regulations**.
+	- Synonyms:
+		- word-1
+	- Antonyms:
+		- word-2
+	- Related words:
+		- word-3
+	- Dates:
+		- [[27-04-2024]]

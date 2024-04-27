@@ -1,0 +1,16 @@
+- to [[take action]] [[in order to]] [[achieve]] something or [[in order to]] [[solve]] a [[problem]]
+	- [[phrasal verb]]
+	- Phonetics:
+		- US: `/diːl wɪð/`
+		- UK: `/diːl wɪð/`
+	- Examples:
+		- How do you [[intend]] to **deal with** this [[problem]]?
+		- [[general|General]] [[enquiry|enquires]] are **dealt with** by our head [[office]].
+	- Synonyms:
+		- [[solve]]
+	- Antonyms:
+		- 
+	- Related words:
+		- [[resolve]]
+	- Dates:
+		- [[27-04-2024]]

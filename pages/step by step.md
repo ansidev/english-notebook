@@ -1,0 +1,16 @@
+- dealing with one thing and then another thing in a fixed order
+	- phrase
+	- Phonetics:
+		- US: `step baɪ step`
+		- UK: `step baɪ step`
+	- Examples:
+		- Don't worry! I'll [[go through something|go through]] the [[procedure]] with you **step by step**.
+		- She [[explain|explained]] to [[member|members]] of her [[team]], **step by step**, [[exactly]] what she wanted them to do.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[27-04-2024]]

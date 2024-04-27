@@ -1,15 +1,15 @@
-- to attack or criticize someone suddenly and unexpectedly
+- to [[attack]] or [[criticize]] someone [[suddenly]] and [[unexpectedly]]
 	- [[phrasal verb]]
 	- Phonetics:
-		- US: `-`
-		- UK: `-`
+		- US: `/tɝːn ɑːn/`
+		- UK: `/tɜːn ɒn/`
 	- Examples:
-		- example-1
+		- [[Suddenly]], she just **turned on me** and [[accuse|accused]] me of [[undermine|undermining]] her.
 	- Synonyms:
-		- word-1
+		- 
 	- Antonyms:
-		- word-2
+		- 
 	- Related words:
-		- word-3
+		- 
 	- Dates:
 		- [[13-04-2024]]

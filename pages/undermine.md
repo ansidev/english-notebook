@@ -5,7 +5,7 @@
 		- UK: `/ˌʌn.dəˈmaɪn/`
 	- Examples:
 		- [[Criticism]] just **undermines** their [[confidence]].
-		- [[Suddenly]], she just [turned on](turn on someone) and [[accuse|accused]] me of **undermining** her.
+		- [[Suddenly]], she just [[turn on someone|turned on]] and [[accuse|accused]] me of **undermining** her.
 	- Synonyms:
 		-
 	- Antonyms:

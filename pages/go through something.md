@@ -1,0 +1,16 @@
+- to [[examine]] something that [[contain|contains]] a [[collection]] of things [[carefully]] [[in order to]] [[organize]] them or find something
+	- [[phrasal verb]]
+	- Phonetics:
+		- US: `/ɡoʊ θruː/`
+		- UK: `/ɡəʊ θruː/`
+	- Examples:
+		- I'm **going through** my wardrobe and [[throw out|throwing out]] all the clothes I don't wear any more.
+		- Remember to **go through** the [[pocket|pockets]] before you [[put something in|put those trousers in]] the [[washing machine]].
+	- Synonyms:
+		- [[examine]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[27-04-2024]]

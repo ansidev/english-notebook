@@ -1,0 +1,15 @@
+- to officially establish a rule, or to officially say how something should be done
+	- [[phrasal verb]]
+	- Phonetics:
+		- US: `/leɪ daʊn/`
+		- UK: `/leɪ daʊn/`
+	- Examples:
+		- This is in line with the [[policy]] **laid down** by the [[management]].
+	- Synonyms:
+		- [[promulgate]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[27-04-2024]]
