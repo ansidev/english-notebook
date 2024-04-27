@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08ebc2f9faeb8eff",
+        "id": "0d1d774e69787d50",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a5ba3d4e3ded40",
+            "id": "48c2dcec0ec0703c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2a5ba3d4e3ded40",
+  "active": "48c2dcec0ec0703c",
   "lastOpenFiles": [
+    "README.md",
+    "journals/2024/Week 15.md",
+    "journals/2024/Week 14.md",
+    "journals/2024/Week 17.md",
+    "TOSTUDY.md",
     "pages/supplant.md",
     "pages/supersede.md",
     "pages/sudden.md",
@@ -170,11 +175,6 @@
     "pages/deal with someone.md",
     "pages/bureaucracy.md",
     "pages/affection.md",
-    "pages/-intentioned.md",
-    "journals/2024/Week 17.md",
-    "journals/2024/Week 16.md",
-    "journals/2024/Week 15.md",
-    "journals/2024/Week 14.md",
     "journals/2024",
     "journals",
     "collections",

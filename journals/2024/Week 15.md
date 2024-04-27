@@ -1,4 +1,4 @@
-1. [hold against](hold something against someone or something)
+1. [[hold something against someone or something|hold against]]
 2. [[Between Scylla and Charybdis]]
 3. [[vouch]]
 4. [[camaraderie]]

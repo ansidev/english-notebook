@@ -2,7 +2,7 @@
 2. [[willpower]]
 3. [[determination]]
 4. [[expectation]]
-5. [lived up to](lived up to something)
+5. [[lived up to something|lived up to]]
 6. [[expectancy]]
 7. [[stellar]]
 8. [[holdup]]
