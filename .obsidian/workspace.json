@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48c2dcec0ec0703c",
+            "id": "ae1079629b2b3e88",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,25 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ce6c109ad608713a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024/Week 20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "granular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOSTUDY.md",
+                "file": "journals/2024/Week 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOSTUDY.md",
+                "file": "journals/2024/Week 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOSTUDY.md"
+                "file": "journals/2024/Week 20.md"
               }
             }
           }
@@ -147,13 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c2dcec0ec0703c",
+  "active": "ce6c109ad608713a",
   "lastOpenFiles": [
+    "pages/granular.md",
+    "journals/2024/Week 20.md",
+    "TOSTUDY.md",
+    "pages/inherent.md",
+    "pages/granularity.md",
+    "journals/13-05-2024.md",
+    "Figure out.md",
+    "pages/intention.md",
+    "pages/dictate.md",
+    "pages/expectancy.md",
+    "pages/forgot.md",
+    "pages/graciously.md",
+    "pages/go through something.md",
+    "journals/2024/Week 17.md",
     "README.md",
     "journals/2024/Week 15.md",
     "journals/2024/Week 14.md",
-    "journals/2024/Week 17.md",
-    "TOSTUDY.md",
     "pages/supplant.md",
     "pages/supersede.md",
     "pages/sudden.md",
@@ -163,18 +191,6 @@
     "pages/sabotage.md",
     "pages/regulation.md",
     "pages/procedure.md",
-    "pages/pragmatic.md",
-    "pages/no longer.md",
-    "pages/lay something down.md",
-    "pages/intention.md",
-    "pages/go through something.md",
-    "pages/forgot.md",
-    "pages/forget.md",
-    "pages/fine-grained.md",
-    "pages/deal with something.md",
-    "pages/deal with someone.md",
-    "pages/bureaucracy.md",
-    "pages/affection.md",
     "journals/2024",
     "journals",
     "collections",

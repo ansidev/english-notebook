@@ -1,0 +1,17 @@
+- a lot of small [[details|details]] [[include|included]] in [[information]], making it [[possible]] for you to [[understand]] very clearly what is [[happen|happening]]
+	- noun
+	- Phonetics:
+		- US: `/ˌɡrænjəˈlærəti/`
+		- UK: `/ˌɡrænjʊˈlærəti/`
+	- Examples:
+		- degree/level of granularity
+			- In our [[market]] [[analysis]], we [[offer]] a [[whole]] **level of granularity**.
+		- We need greater **granularity** in a number of key areas of the data.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[13-05-2024]]

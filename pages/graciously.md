@@ -1,5 +1,7 @@
 - [[politely]] and [[pleasantly]]
 	- adverb
+	- Phonetics:
+		- 
 	- Examples:
 		- She **graciously** accepted the flowers that were presented to her.
 		- She accepted [[defeat]] **graciously**.

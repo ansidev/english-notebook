@@ -1,0 +1,21 @@
+- existing as nature or basic part of something
+	- adjective
+	- Phonetics:
+		- US: `/ɪnˈhɪr.ənt/`
+		- UK: `/ɪnˈher.ənt/`
+	- Examples:
+		- inherent in:
+			- There are [[danger|dangers]]/[[risk|risks]] **inherent in** [[almost]] every [[sport]].
+		- inherent of:
+			- I have an **inherent** [[distrust]] **of** [[lawyer|lawyers]].
+	- Synonyms:
+		- [[built-in]]
+		- [[essential]]
+		- [[fundamental]]
+		- [[instinctive]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[13-05-2024]]

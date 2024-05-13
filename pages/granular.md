@@ -1,0 +1,17 @@
+- including small details 
+	- adjective
+	- Phonetics:
+		- US: `/ˈɡræn.jə.lɚ/`
+		- UK: `/ˈɡræn.jə.lər/`
+	- Examples:
+		- The [[analysis]] needs to be more **granular**.
+		- We need a [[broad]] [[picture]], not the **granular** [[detail|details]] of [[people]]'s buying [[habit|habits]].
+		- [[figure out|Figuring out]] [[clever]] [[workaround|workarounds]] to [[continue]] **granular** user-level tracking — even if anonymous — seem [[contrary]] to Apple’s [[intention|intentions]].
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- [[granularity]]
+	- Dates:
+		- [[13-05-2024]]

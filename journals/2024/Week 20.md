@@ -1,0 +1,8 @@
+1. [[granular]]
+2. [[granularity]]
+3. [[inherent]]
+4. [[depicted]]
+5. [[figure out]]
+6. [[contrary]]
+7. [[rescind]]
+8. [[to fit into]]
