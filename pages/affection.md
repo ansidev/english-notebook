@@ -1,5 +1,6 @@
 - a feeling of liking for a person or place
-	- noun/verb/adjective/adverb/phrasal verb
+	- CEFR Level: [[B2]]
+	- noun
 	- Phonetics:
 		- US: `/əˈfek.ʃən/`
 		- UK: `/əˈfek.ʃən/`

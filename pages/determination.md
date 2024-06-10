@@ -1,4 +1,5 @@
 - the [[ability]] to [[continue]] trying to do something, [[although]] it is very difficult
+	- CEFR Level: [[B2]]
 	- noun
 	- Phonetics:
 		- US: `/dɪˌtɝː.mɪˈneɪ.ʃən/`

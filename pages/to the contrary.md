@@ -1,0 +1,17 @@
+- saying or showing the opposite
+	- CEFR Level: [[C1]]
+	- verb
+	- Phonetics:
+		- US: `/ˈkɑːn.tre.ri/`
+		- UK: `/ˈkɒn.trə.ri/`
+	- Examples:
+		- [[proof]]/[[evidence]] to the contrary
+			- For a long time it was thought to be a [[harmless]] [[substance]], but we now have **[[proof]]/[[evidence]] to the contrary**.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[21-05-2024]]

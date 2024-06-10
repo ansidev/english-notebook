@@ -1,0 +1,16 @@
+- to [[find]] time to do or [[deal with something]] or [[deal with someone|someone]]
+	- CEFR Level: N/A
+	- phrasal verb
+	- Phonetics:
+		- US: `/fɪt ɪn/`
+		- UK: `/fɪt ɪn/`
+	- Examples:
+		- Dr Jones is very [[busy]] but I'm [[sure]] she'll [[be able to do something|be able to]] **fit you in** [[tomorrow]].
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[05-06-2024]]

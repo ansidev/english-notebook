@@ -1,0 +1,16 @@
+- to [[cause]] something to have no [[effect]]
+	- CEFR Level: N/A
+	- verb
+	- Phonetics:
+		- US: `/nɪˈɡeɪt/`
+		- UK: `/nɪˈɡeɪt/`
+	- Examples:
+		- The [[increase]] in our [[profit|profits]] has been **negated** by the [[rise|rising]] [[cost|costs]] of running [[business]].
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- [[negation]]
+	- Dates:
+		- [[05-06-2024]]

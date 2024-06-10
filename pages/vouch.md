@@ -12,6 +12,6 @@
 	- Antonyms:
 		-
 	- Related words:
-		-
+		- [[vouch for something/someone]]
 	- Dates:
 		- [[13-04-2024]]

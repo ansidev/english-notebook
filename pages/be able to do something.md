@@ -1,0 +1,19 @@
+- to have the [[necessary]] [[physical]] [[strength]], [[mental]] [[power]], [[skill]], [[time]], [[money]], or [[opportunity]] to do something
+	- CEFR Level: [[A2]]
+	- phrase
+	- Phonetics:
+		- US: `-`
+		- UK: `-`
+	- Examples:
+		- Will she be **able to [[cope]] with the work**?
+		- He's never been **able to [[admit]] to his [[mistake|mistakes]]**.
+		- I'm [[sorry]] that I wasn't **able to [[phone]] you** [[yesterday]].
+		- It's so [[wonderful]] **being able to see the [[sea]]** from my [[window]].
+	- Synonyms:
+		- [[capable of something/doing something]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[21-05-2024]]

@@ -1,8 +1,9 @@
 - in the past but not for now
+	- CEFR Level: [[B1]]
 	- [[idiom]]
 	- Phonetics:
-		- US: `-`
-		- UK: `-`
+		- US: `/nəʊ ˈlɒŋɡə/`
+		- UK: `/noʊ ˈlɔŋɡər/`
 	- Examples:
 		- This building is **no longer** used.
 		- She doesn't work here **any longer**.
@@ -11,6 +12,6 @@
 	- Antonyms:
 		- 
 	- Related words:
-		- 
+		- not any longer
 	- Dates:
 		- [[20-04-2024]]

@@ -1,4 +1,5 @@
 - to [[care]] for a [[child]] [[until]] they are an [[adult]], [[often]] [giving](give) them [[particular]] [beliefs](belief)
+	- CEFR Level: [[B1]]
 	- [[phrasal verb]]
 	- Phonetics:
 		- US: `/brɪŋ ʌp/`

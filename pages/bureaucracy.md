@@ -1,4 +1,5 @@
 - a [[system]] for [[control|controlling]] or [[manage|managing]] a country, company, or organization that is [[operate|operated]] by a large number of [[official|officials]] who are [[employ|employed]] to follow [[rule|rules]] [[carefully]]
+	- CEFR Level: [[C2]]
 	- noun
 	- Phonetics:
 		- US: `/bjʊˈrɑː.krə.si/`

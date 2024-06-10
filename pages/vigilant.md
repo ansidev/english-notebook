@@ -1,0 +1,16 @@
+- always being careful to notice things, especially possible danger
+	- CEFR Level: N/A
+	- adjective
+	- Phonetics:
+		- US: `/ˈvɪdʒ.əl.ənt/`
+		- UK: `/ˈvɪdʒ.əl.ənt/`
+	- Examples:
+		- Following the [[bomb]] [[scare]] at the [[airport]], the [[staff]] have been warned to be [[extra]] **vigilant**.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[11-06-2024]]

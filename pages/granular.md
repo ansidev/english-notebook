@@ -6,7 +6,7 @@
 	- Examples:
 		- The [[analysis]] needs to be more **granular**.
 		- We need a [[broad]] [[picture]], not the **granular** [[detail|details]] of [[people]]'s buying [[habit|habits]].
-		- [[figure out|Figuring out]] [[clever]] [[workaround|workarounds]] to [[continue]] **granular** user-level tracking — even if anonymous — seem [[contrary]] to Apple’s [[intention|intentions]].
+		- [[figure something or someone out|Figuring out]] [[clever]] [[workaround|workarounds]] to [[continue]] **granular** user-level tracking — even if anonymous — seem [[to the contrary]] to Apple’s [[intention|intentions]].
 	- Synonyms:
 		- 
 	- Antonyms:

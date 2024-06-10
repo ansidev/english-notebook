@@ -1,4 +1,5 @@
 - a feeling of friendliness toward people that you work or share an experience with
+	- CEFR Level: N/A
 	- noun
 	- Phonetics:
 		- US: `/ˌkæm.əˈrɑː.dɚ.i/`

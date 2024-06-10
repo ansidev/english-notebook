@@ -1,4 +1,5 @@
 - (often of something bad) [[intentional]] or [planned](plan)
+	- CEFR Level: [[B2]]
 	- adjective
 	- Phonetics:
 		- US: `/dɪˈlɪb.ɚ.ət/`
@@ -12,5 +13,6 @@
 		-
 	- Related words:
 		- [[deliberation]]
+		- [[deliberate on something]]
 	- Dates:
 		- [[13-04-2024]]

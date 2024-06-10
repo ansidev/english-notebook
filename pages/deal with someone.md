@@ -1,4 +1,5 @@
 - to talk to someone or meet someone, [[especially]] as part of your job
+	- CEFR Level: [[B2]]
 	- [[phrasal verb]]
 	- Phonetics:
 		- US: `/diːl wɪð/`
@@ -14,3 +15,4 @@
 		- [[deal with something]]
 	- Dates:
 		- [[27-04-2024]]
+		- [[05-06-2024]]

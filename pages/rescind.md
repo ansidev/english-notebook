@@ -1,0 +1,16 @@
+- to [[make]] a [[law]], [[agreement]], [[order]], or [[decision]] [[no longer]] have any ([[legal]]) [[power]]
+	- CEFR Level: N/A
+	- verb
+	- Phonetics:
+		- US: `/rɪˈsɪnd/`
+		- UK: `/rɪˈsɪnd/`
+	- Examples:
+		- The [[policy]] of [[charge|charging]] [[air]] [[traveller|travellers]] for [[vegetarian]] [[meal|meals]] [[prove|proved]] [[unpopular]] and has already been **rescinded**.
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[05-06-2024]]

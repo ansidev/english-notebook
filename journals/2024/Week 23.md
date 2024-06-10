@@ -1,0 +1,5 @@
+1. [[figure something or someone out|figure out]]
+2. [[rescind]]
+3. [[fit someone or something in]]
+4. [[negate]]
+5. [[sentinel]]

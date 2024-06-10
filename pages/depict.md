@@ -1,0 +1,25 @@
+- to [[represent]] or show something in a [[picture]] or [[story]]
+	- CEFR Level: [[C2]]
+	- verb
+	- Phonetics:
+		- US: `/dɪˈpɪkt/`
+		- UK: `/dɪˈpɪkt/`
+	- Examples:
+		- Her paintings **depict** the [[live|lives]] of [[ordinary]] [[people]] in the last [[century]].
+		- In the [[book]], he **depicts** his [[father]] as a [[tyrant]].
+		- [[people|People]] were [[shock|shocked]] by the [[advertisement]] which **depicted** a [[woman]] [[beat|beating]] her [[husband]].
+		- [[be able to do something]]
+			- In the [[film]], he is able to **depict** the [[sense]] of [[otherness]] and [[alienation]] that many [[teenager|teenagers]] [[feel]].
+		- The rock drawings **depict** a [[variety]] of [[stylize|stylized]] [[human]], [[bird]] and [[mythological]] [[figure|figures]] and [[pattern|patterns]].
+		- Cupid is usually **depicted** as a [[winged]] [[boy]] with a [[bow]] and [[arrow]].
+		- John Bull is [[traditionally]] **depicted** as a short fat man [[wear|wearing]] a [[waistcoat]] with the British flag on it.
+		- In the film she's **depicted** as a very cold and calculating [[character]].
+	- Synonyms:
+		- [[represent]]
+		- [[describe]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[21-05-2024]]

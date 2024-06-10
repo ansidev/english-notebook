@@ -1,0 +1,16 @@
+- to [[experience]] something, [[usually]] something [[unpleasant]], as a [[result]] of [[action|actions]] you have [[take|taken]]
+	- CEFR Level: [[C2]]
+	- verb
+	- Phonetics:
+		- US: `/ɪnˈkɜːr/`
+		- UK: `/ɪnˈkɝː/`
+	- Examples:
+		- to **incurs** [[debt|debts]]/[[fine|fines]]/[[bill|bills]]
+	- Synonyms:
+		- 
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[22-05-2024]]

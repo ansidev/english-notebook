@@ -1,0 +1,17 @@
+- to [[cause]] something to [[break]] [[noisily]] into [[a lot of]] [[small]] [[piece|pieces]]
+	- CEFR Level: [[B2]]
+	- verb
+	- Phonetics:
+		- US: `/smæʃ/`
+		- UK: `/smæʃ/`
+	- Examples:
+		- [[rioter|Rioters]] ran [[through]] the city, **smashing** windows and [[loot|looting]] [[shop|shops]].
+	- Synonyms:
+		- [[break]]
+		- [[shatter]]
+	- Antonyms:
+		- 
+	- Related words:
+		- 
+	- Dates:
+		- [[11-06-2024]]

@@ -1,4 +1,5 @@
 - to [[take action]] [[in order to]] [[achieve]] something or [[in order to]] [[solve]] a [[problem]]
+	- CEFR Level: [[B1]]
 	- [[phrasal verb]]
 	- Phonetics:
 		- US: `/diːl wɪð/`
@@ -14,3 +15,4 @@
 		- [[resolve]]
 	- Dates:
 		- [[27-04-2024]]
+		- [[05-06-2024]]
